@@ -25,7 +25,7 @@ const itemVariants={
     opacity:0,
   }
 }
-const links = () => {
+const Links = () => {
     const items =[
         "homepage",
         "services",
@@ -41,4 +41,4 @@ const links = () => {
   )
 }
 
-export default links
+export default Links
