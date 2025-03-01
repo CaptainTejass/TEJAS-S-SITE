@@ -1,0 +1,46 @@
+section{
+    height:100vh;
+    scroll-snap-align: center;
+    background-image: url('/public/bstar.jpg');
+    
+    background-position: top;    
+    background-size:97%;
+    
+    
+    
+}
+
+/*#Homepage{
+   
+    background-image: url('471765.jpg');
+    background-size: cover;
+    background-position: top;
+    z-index: -1;
+
+
+}*/
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+    font-family: "DM Sans",sans-serif;
+    
+}
+html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+body{
+    color:rgb(176, 179, 12); 
+    background-image: url('/public/bstar.jpg');
+    
+    background-position: top;    
+    background-size:auto;
+    
+    
+
+
+}
+    
+
+

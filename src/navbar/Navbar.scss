@@ -1,0 +1,55 @@
+.navbar {
+    height: 100px;
+    width:100%;
+    background-color: transparent;
+    z-index: 2;
+       
+  }
+.wrapper{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: transparent;
+
+    span{
+      letter-spacing: 6px;
+      font-size: large;
+      font-family: 'Honk', system-ui;
+  }
+}
+
+.social{
+    display: flex;
+    gap:20px;
+    margin-right: -40%;
+
+  img{
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+  }
+  img:hover{
+    transform: scale(1.2);
+  }
+  #first{
+    border-radius: 6px;
+    border: 1px solid white;
+  }
+}
+ 
+.course{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
