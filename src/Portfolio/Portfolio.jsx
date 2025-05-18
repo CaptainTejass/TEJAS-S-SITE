@@ -11,7 +11,7 @@ const items=[
         title:"NIKE DESIGN",
         img:"/nike.png",
         desc:"UI/UX..  DESIGNED THIS ANIMATED NIKE WEBSITE PAGE WITH FIGMA",
-        link:"https://www.linkedin.com/posts/captaintejas_ui-activity-7144048768529711105-rYoX?utm_source=share&utm_medium=member_desktop"
+        link:"https://www.figma.com/proto/T5WRllVs4yqFvrC7qLcdhE/TEJAS-X-NIKE--Community-?node-id=18-137&starting-point-node-id=18%3A137&t=7vYqlsnuONc4HhES-1"
     },
     {
         id:2,
@@ -25,14 +25,28 @@ const items=[
         title:"E-COMMERCE WEB PAGE",
         img:"/modern_chair.png",
         desc:"I crafted a unique and imaginative e-commerce website's frontend entirely from scratch. ",
-        link:"https://www.linkedin.com/posts/captaintejas_webdev-frontend-activity-7118343855023747072-uH1r?utm_source=share&utm_medium=member_desktop"
+        link:"https://682a46f056b200ce092ab67d--merry-dolphin-b4baa3.netlify.app/"
     },
     {
         id:4,
         title:"ANIMATION WEBSITE",
         img:"/animated.png",
         desc:"a captivating animated website that brings content to life as you scroll! 🚀 Using HTML, CSS, JavaScript, and React, I've created a seamless user experience with dynamic animations that engage and impress",
-        link:"https://www.linkedin.com/posts/captaintejas_webdevelopment-animation-reactjs-activity-7121794056820523009-tAZs?utm_source=share&utm_medium=member_desktop"
+        link:"https://symphonious-biscuit-49edd9.netlify.app/"
+    },
+    {
+        id:5,
+        title:"PASSWORD GENERATOR",
+        img:"/MM.jpg",
+        desc:"a captivating animated website that brings content to life as you scroll! 🚀 Using HTML, CSS, JavaScript, and React, I've created a seamless user experience with dynamic animations that engage and impress",
+        link:"https://682a47f23b4582930b0150a2--mellow-frangipane-cc4fe7.netlify.app/"
+    },
+    {
+        id:6,
+        title:"EDTECH PLATFORM",
+        img:"/ll.png",
+        desc:"API integration, RAZORPAY Payment integration🚀 Using React,MongoDB,NodeJS,Express. Password authentication using JWT Token",
+        link:"https://studynotion-app.netlify.app/"
     }
 ];
 

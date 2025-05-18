@@ -52,24 +52,24 @@ const Services = () => {
             <motion.div className='box'  >
                 <h2>FRONTEND DEVELOPMENT</h2>
                 <p>Intuitive frontend designs tailored to your brand. Let our experienced frontend developers bring your digital vision to life.</p>
-                <button>GO !</button>
+                <a href="#formContainer"><button >CONTACT NOW</button></a>
             </motion.div>
             <motion.div className='box' >
                 <h2>BACKEND DEVELOPMENT</h2>
                 <p>Elevate your business operations with robust backend solutions tailored to your specific needs.
                    Our expert backend developers ensure seamless performance, scalability, and security.</p>
-                <button>GO !</button>
+                <a href="#formContainer"><button >CONTACT NOW</button></a>
             </motion.div>
             <motion.div className='box' >
                 <h2>FULLSTACK DEVELOPMENT</h2>
                 <p>Unlock your full potential with our comprehensive fullstack development services. Seamlessly integrate frontend and backend technologies to create dynamic, user-centric web applications that drive growth and innovation for your business.</p>
-                <button>GO !</button>
+                <a href="#formContainer"><button >CONTACT NOW</button></a>
             </motion.div>
             
             <motion.div className='box' >
                 <h2>UI / UX DESIGNING</h2>
                 <p>Our expert designers blend creativity with user-centric principles to deliver intuitive and visually stunning experiences that leave a lasting impression.</p>
-                <button>GO !</button>
+                <a href="#formContainer"><button >CONTACT NOW</button></a>
             </motion.div>
         </motion.div>
     </motion.div>
