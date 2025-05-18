@@ -64,7 +64,7 @@ const Hero = () => {
         </motion.div>
       </div>
       <motion.div className='sliding_text__container' variants={sliderVariants} initial="initial" animate="animate">
-         WEB DEVELOPER || DATA ANALYST
+         WEB DEVELOPER || DATA ANALYST || UI/UX
       </motion.div>
       <div className="imageContainer">
             <img  className='heroImg' src="public\myphoto.png" alt =""/>

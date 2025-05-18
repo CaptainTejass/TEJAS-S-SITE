@@ -38,7 +38,11 @@ const items=[
         id:5,
         title:"PASSWORD GENERATOR",
         img:"/MM.jpg",
+<<<<<<< HEAD
         desc:"Generate secure passwords instantly with this easy-to-use Password Generator. Customize password length and include uppercase, lowercase, numbers, or symbols. Instantly copy and assess strength with a single click",
+=======
+        desc:"Generate secure passwords instantly with this easy-to-use Password Generator. Customize password length and include uppercase, lowercase, numbers, or symbols. Instantly copy and assess strength with a single click!",
+>>>>>>> 69914dd (Describe what changes you made)
         link:"https://682a47f23b4582930b0150a2--mellow-frangipane-cc4fe7.netlify.app/"
     },
     {
