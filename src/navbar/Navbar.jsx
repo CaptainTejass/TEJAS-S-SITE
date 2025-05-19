@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className='wrapper'>
            <motion.span initial={{opacity:0,scale:0.5}}
            animate={{opacity:1,scale:3}}
-           transition={{duration:2}}>welcome</motion.span>
+           transition={{duration:2}}>welcome To THE WEBSITE</motion.span>
            <div className='social'>
              <a href='https://github.com/CaptainTejass' target="_blank" ><img  id="first" src='./github.jpg'></img></a>
              <a href='https://www.instagram.com/captain_tejass/' target="_blank" ><img src='./instagram.png'></img></a>
